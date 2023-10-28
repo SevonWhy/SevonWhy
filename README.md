@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SevonWhy
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning HTML/CSS and Python
+- 📫 How to reach me: sevontracks@gmail.com or @sevonwhy on twitter
